@@ -3,3 +3,6 @@
 *.bintt
 *.ott
 .DS_STORE
+*.swp
+*.out
+*.wo

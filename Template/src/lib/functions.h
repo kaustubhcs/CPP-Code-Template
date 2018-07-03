@@ -11,7 +11,12 @@
 #include <fstream>
 
 
+struct Input {
+		long *number;
+};
 
+Input get_inputs (int, char**, Input, int printer=0);
+void print_inputs(int, Input);
 
 
 
