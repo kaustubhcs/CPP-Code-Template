@@ -50,6 +50,8 @@ your_project/
 
 ## How to Build
 
+`cd CPP-Template`
+
 1. Open a terminal in the project’s root directory.
 2. Run the following command:
 
